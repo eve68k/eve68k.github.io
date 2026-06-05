@@ -1,0 +1,58 @@
+{
+  "siteTitle": "Eve — Links",
+  "tiles": [
+    {
+      "type": "profile",
+      "size": "2x2",
+      "name": "Eve",
+      "handle": "@eve68k",
+      "bio": "Developer & Designer",
+      "avatar": null,
+      "bg": "#dbeafe"
+    },
+    {
+      "type": "link",
+      "size": "1x1",
+      "name": "GitHub",
+      "url": "https://github.com/eve68k",
+      "icon": "github",
+      "bg": "#18181b",
+      "fg": "#ffffff"
+    },
+    {
+      "type": "link",
+      "size": "1x1",
+      "name": "X",
+      "url": "https://x.com/",
+      "icon": "x",
+      "bg": "#000000",
+      "fg": "#ffffff"
+    },
+    {
+      "type": "note",
+      "size": "2x1",
+      "name": "Feel free to reach out anytime!",
+      "emoji": "👋",
+      "bg": "#fef9c3",
+      "fg": "#713f12"
+    },
+    {
+      "type": "link",
+      "size": "1x1",
+      "name": "Email",
+      "url": "mailto:hello@example.com",
+      "icon": "mail",
+      "bg": "#3b82f6",
+      "fg": "#ffffff"
+    },
+    {
+      "type": "link",
+      "size": "1x1",
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/",
+      "icon": "linkedin",
+      "bg": "#0a66c2",
+      "fg": "#ffffff"
+    }
+  ]
+}
